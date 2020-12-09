@@ -1,2 +1,11 @@
 # nodejs-template
-Template NodeJS project
+
+> Template NodeJS project
+
+## Features
+
+- ESLint standard
+- lint-staged
+- husky
+- @commitlint
+- release-it
