@@ -1,3 +1,5 @@
+## [1.1.1](https://github.com/phatnguyenuit/nodejs-template/compare/1.1.0...1.1.1) (2020-12-10)
+
 # 1.1.0 (2020-12-09)
 
 
