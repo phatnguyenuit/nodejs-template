@@ -13,3 +13,4 @@ Template NodeJS project
 - husky
 - @commitlint
 - release-it
+- @types/jest => to make [`orta.vscode-jest`](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) vscode extension work and suggest code snippets
